@@ -7,7 +7,7 @@ Software Developer
 I'm passionate about programming and solving problems. There's a lot to explore, and so much to build.If I'm not coding, I'm learning.
 
 *   🌍  I'm based in Nairobi, Kenya
-*   ✉️  You can contact me using [email](mailto:ian.samoei@pie-lang.online)
+*   ✉️  You can contact me using [email](mailto:samoeicoder@gmail.com)
 *   🧠  I'm learning Frontend technologies
 *   🤝  I'm open to collaborating on open-source projects, IoT projects and any interesting projects
 
